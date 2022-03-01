@@ -12,4 +12,3 @@ We're **Contoso** the awesome drone company!
 * Top-notch professionals
 * We understand you
 * We're artists
-* CD Demo
